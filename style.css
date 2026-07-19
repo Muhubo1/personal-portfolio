@@ -10,7 +10,7 @@ h2{
     display: flex;
     text-align: center;
 }
-h2::before {
+nav::before {
     content: "";
     width: 150px;
     height: 1px;

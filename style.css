@@ -10,13 +10,6 @@ h2{
     display: flex;
     text-align: center;
 }
-nav::before {
-    content: "";
-    width: 150px;
-    height: 1px;
-    background-color: gray;
-    margin-right: 20px;
-}
 p{
     text-align: left;
     width: 200px;

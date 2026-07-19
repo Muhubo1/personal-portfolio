@@ -14,3 +14,6 @@ p{
     text-align: left;
     width: 200px;
 }
+body {
+    font-family: "Inter", sans-serif;
+}
